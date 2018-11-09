@@ -67,10 +67,10 @@ let result = ordenarArray(sanitizarArray(arrayDesordenado))
 let str= ""
 
 result.forEach((item) => {
-  str += item+"\n"
+  str += item+"\r\n"
 })
 
-fs.writeFile('mynewfile3.txt', str, function (err) {
+fs.writeFile('output.txt', str, function (err) {
   if (err) throw err;
   console.log('Saved!');
 });

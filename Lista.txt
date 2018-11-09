@@ -1,4 +1,4 @@
-(12) ok
+﻿(12) ok
 Liliana castillo
 Natalia Castillo
 Marcos Castillo
@@ -8,7 +8,7 @@ Valeria Santi
 Eliana Santi
 Edgardo Altamirano
 Gaston Deganis
-Camila Cervi�o
+Camila Cerviño
 Santiago Altamirano
 Bautista Deganis
 
@@ -30,7 +30,7 @@ Ignacio Vera
 Matias Molina
 Sergio Molina
 Maria Teresa llarin
-Mar�a Liendo
+María Liendo
 
 Daniel Frechou
 Rodrigo Amarante
@@ -87,3 +87,5 @@ Juan cruz Munger
 Darlen Mansilla
 Monica lisera
 Luciano Chiarella
+
+
